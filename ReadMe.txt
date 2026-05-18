@@ -18,3 +18,19 @@ An ML-based Movie Recommendation System built using Python and Streamlit.
 
 ```bash
 pip install -r requirements.txt
+## Run the Project
+
+```bash
+streamlit run app.py
+```
+
+## Dataset
+- movies.csv
+- ratings.csv
+
+## Screenshot
+
+![App Screenshot](Screenshot%20(212).png)
+
+## Author
+Mansi Kapoor
